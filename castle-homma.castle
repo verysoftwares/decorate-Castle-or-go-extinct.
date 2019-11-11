@@ -1,0 +1,11 @@
+title: decorate Castle or go extinct.
+owner: verysoftwares
+description: Decorate a tiny space by pushing and pulling. Share your designs online. Arrow keys & Shift to play.
+
+coverImage: cover.png
+
+main: main.lua
+dimensions: 288x288
+scaling: step
+
+primarycolor: d3feda
